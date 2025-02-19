@@ -1,10 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Gloock&display=swap');
-
 html{
-    font-family: 'Gloock', serif;
+    font-family: serif;
     background: rgb(253, 254, 246);
+    margin: 0;
 }
 
-.container {
-    text-align: center;
-  }
